@@ -9,5 +9,5 @@ Changelog:
 
 Follow me on GitHub to stay informed.
 
-Github publication may follow.
+GitHub publication may follow.
 
